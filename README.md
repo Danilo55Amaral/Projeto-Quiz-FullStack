@@ -1,34 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Projeto Quiz Full Stack 
+O projeto Quiz é um projeto que consiste em um questionário de perguntas e respostas 
+onde ao final do questionário ele exibe uma tela de resultados com alguns dados e mostram
+a quantidade de perguntas, quantidade de respostas respondidas corretamente e mostra 
+também o porcentual de acerto. Esse projeto é um desafio proposto pela escola de programadores Cod3r.
+Dei uma repaginada no desing da aplicação e construir o projeto utilizando as tecnicas e habilidades 
+práticas do agile software, utilizei as técnicas do Clean Code nesse projeto e também do Clean Architecture.
 
-## Getting Started
+# O que foi utilizado
+- Esse projeto foi feito em Next.Js e React 
+- Integrei TypeScript ao projeto 
+- Utilizei vários Conceitos do React
+- Utilizei Css3 e também códigos Tsx
+- Fiz algumas melhorias e mudanças no design
+- Utilizei também técnicas do Clean Code e principios do Clean Architecture
+- Construir o projeto utilizando as tecnicas e habilidades práticas do agile software
 
-First, run the development server:
+# Para Rodar o Projeto 
+- Para rodar o projeto é necessário ter o node e o React instalado em sua maquina
+- Abra a pasta do projeto utilizando o terminal e execute o seguinte comando: npm rum dev ou npm start
+- Caso não tenha o react instalado em sua maquina execute o seguinte comando: npm i -g create-react-app 
 
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# Projeto
+![imagem-01.JPG](https://github.com/Danilo55Amaral/Projeto-Quiz-FullStack/blob/main/imagem-01.JPG)
+![imagem-002.JPG](https://github.com/Danilo55Amaral/Projeto-Quiz-FullStack/blob/main/imagem-002.JPG)
+![imagem-003.JPG](https://github.com/Danilo55Amaral/Projeto-Quiz-FullStack/blob/main/imagem-003.JPG)
+![imagem-004.JPG](https://github.com/Danilo55Amaral/Projeto-Quiz-FullStack/blob/main/imagem-004.JPG)
+![imagem-005.JPG](https://github.com/Danilo55Amaral/Projeto-Quiz-FullStack/blob/main/imagem-005.JPG)
