@@ -6,6 +6,9 @@ também o porcentual de acerto. Esse projeto é um desafio proposto pela escola 
 Dei uma repaginada no desing da aplicação e construir o projeto utilizando as tecnicas e habilidades 
 práticas do agile software, utilizei as técnicas do Clean Code nesse projeto e também do Clean Architecture.
 
+Fiz o deploy na nuvem do projeto e você consegue acessar e testar o projeto totalmente online no link a seguir:
+https://projeto-quiz-full-stack.vercel.app
+
 # O que foi utilizado
 - Esse projeto foi feito em Next.Js e React 
 - Integrei TypeScript ao projeto 
