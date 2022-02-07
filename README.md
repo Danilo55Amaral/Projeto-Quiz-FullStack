@@ -19,9 +19,9 @@ https://projeto-quiz-full-stack.vercel.app
 - Construir o projeto utilizando as tecnicas e habilidades práticas do agile software
 
 # Para Rodar o Projeto 
-- Para rodar o projeto é necessário ter o node e o React instalado em sua maquina
+- Para rodar o projeto é necessário ter o node instalado em sua maquina
 - Abra a pasta do projeto utilizando o terminal e execute o seguinte comando: npm rum dev ou npm start
-- Caso não tenha o react instalado em sua maquina execute o seguinte comando: npm i -g create-react-app 
+
 
 # Projeto
 ![imagem-01.JPG](https://github.com/Danilo55Amaral/Projeto-Quiz-FullStack/blob/main/imagem-01.JPG)
